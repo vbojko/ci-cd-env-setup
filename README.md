@@ -110,6 +110,11 @@ To install minishift, retrieve the github repository:
 Run 
 
       build-env.sh minishift 
+      
+
+In case you need ansible and  AWS CLI on Jenkins server, Run 
+
+      build-env2.sh minishift 
 to install minishift:
 
 * Update the system
